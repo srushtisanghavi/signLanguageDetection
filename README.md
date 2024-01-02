@@ -8,9 +8,9 @@ Perfect for individuals not familiar with sign language, this model bridges the 
 <img width="500" alt="image" src="https://github.com/srushtisanghavi/signLanguageDetection/assets/122697366/f1e73c03-c1d3-49f8-987d-4c1b1904bc5e">
 <img width="500" alt="image" src="https://github.com/srushtisanghavi/signLanguageDetection/assets/122697366/1472762a-70bb-4d89-8431-3021fc49ed16">
 
-
-
-
-
 Currently trained on ASL actions like 'Hello', 'Thank you', 'Happy', and 'I Love You', with ongoing development aiming to encompass all ASL sign languages.
 
+Here is the model architecture.
+
+
+![image](https://github.com/srushtisanghavi/signLanguageDetection/assets/122697366/74f938a4-c4fd-4160-b910-010cd56d5dc5)
